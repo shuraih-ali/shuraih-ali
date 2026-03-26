@@ -13,7 +13,13 @@ I am a Computer Science (AI) student at Abdul Wali Khan University Mardan with a
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shuraih-ali&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=shuraih-ali&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+<p align="center">
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=shuraih-ali&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" 
+    alt="GitHub Trophies"
+  />
+</p>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=shuraih-ali&limit=5&theme=dark&combine_all_yearly_contributions=true)
