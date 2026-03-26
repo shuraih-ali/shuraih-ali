@@ -1,109 +1,24 @@
-<h1 align="center">Hi, I'm Shuraih Ali</h1>
-<h3 align="center">Computer Science (AI) Student | Flutter Developer | IEEE Treasurer @ AWKUM</h3>
+# 💫 About Me:
+I am a Computer Science (AI) student at Abdul Wali Khan University Mardan with a strong focus on building real-world, scalable applications.<br><br>Currently serving as IEEE Treasurer at AWKUM, where I handle financial operations, funding management, and contribute to technical initiatives within the IEEE ecosystem.<br><br>I specialize in Flutter-based cross-platform development, with solid foundations in Data Structures & Algorithms, and a growing focus on AI-powered applications.<br><br>🔭 Currently working on: Flutter apps & AI-integrated solutions<br>🌱 Learning: Advanced DSA, Backend Systems, AI integration<br>👨‍💻 All projects: https://github.com/shuraih-ali<br>📫 Contact: shuraihali003@gmail.com<br>🌍 Location: Mardan, Pakistan<br>
+
+
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/shuraih.ali) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shuraih.ali) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shuraih-ali) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/ShuraihAli) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Shuraih_Ali) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ShuraihAli) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shuraihali003@gmail.com) 
+
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=shuraih-ali&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=shuraih-ali&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shuraih-ali&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=shuraih-ali&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=shuraih-ali&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=shuraih-ali&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🚀 About Me
-I am a Computer Science (AI) student at Abdul Wali Khan University Mardan with a strong focus on building real-world, scalable applications.
-
-Currently serving as **IEEE Treasurer at AWKUM**, where I handle financial operations, funding management, and contribute to technical initiatives within the IEEE ecosystem.
-
-I specialize in **Flutter-based cross-platform development**, with solid foundations in **Data Structures & Algorithms**, and a growing focus on **AI-powered applications**.
-
-- 🔭 Currently working on: Flutter apps & AI-integrated solutions  
-- 🌱 Learning: Advanced DSA, Backend Systems, AI integration  
-- 👨‍💻 All projects: https://github.com/shuraih-ali  
-- 📫 Contact: shuraihali003@gmail.com  
-- 🌍 Location: Mardan, Pakistan  
-
----
-
-## 🧠 Tech Stack
-
-### 💻 Languages
-- Dart
-- C++
-- Python
-- SQL
-
-### 📱 Mobile Development
-- Flutter
-- Responsive UI Design
-- State Management (basic to intermediate)
-
-### 🗄️ Databases
-- MySQL
-- SQL Server
-- SQLite
-
-### 🛠️ Tools & Platforms
-- Git & GitHub
-- VS Code
-- Android Studio
-- Xcode
-- MS Office
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shuraih-ali&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shuraih-ali&theme=tokyonight" />
-</p>
-
----
-
-## 📌 Featured Projects
-
-### 🔹 IEEE Poster Generator
-AI-powered tool for generating professional IEEE-style posters.
-- Flutter-based UI
-- Automated layout generation
-- Clean, structured design system
-
-👉 https://github.com/shuraih-ali/ieee-poster-generator
-
----
-
-### 🔹 Flutter Task Organizer
-Task management app with local database support.
-- SQLite integration
-- CRUD operations
-- Clean UI/UX
-
----
-
-### 🔹 E-Commerce Sneakers UI
-Modern UI design for e-commerce applications.
-- Responsive layouts
-- Dark/Light theme support
-
----
-
-## 🏆 Achievements & Activities
-- IEEE Treasurer @ AWKUM
-- Member of IEEE Student Society
-- Member of Google Developer Groups (GDG)
-- Google Developers Program Participant
-- Google Maps Platform Innovator
-- Certified in Introduction to AI (HP Life)
-
----
-
-## 📈 What Sets Me Apart
-- Strong balance of **technical + leadership (IEEE)**
-- Focus on **real-world applications**, not just theory
-- Consistent **project-based learning approach**
-- Ability to manage both **development and operations**
-
----
-
-## 🤝 Connect With Me
-- GitHub: https://github.com/shuraih-ali
-- LinkedIn: https://linkedin.com/in/Shuraih-ali
-
----
-
-## ⚡ Philosophy
-> Build practical. Ship fast. Improve continuously.
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
