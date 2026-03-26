@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 I am a Computer Science (AI) student at Abdul Wali Khan University Mardan with a strong focus on building real-world, scalable applications.<br><br>Currently serving as IEEE Treasurer at AWKUM, where I handle financial operations, funding management, and contribute to technical initiatives within the IEEE ecosystem.<br><br>I specialize in Flutter-based cross-platform development, with solid foundations in Data Structures & Algorithms, and a growing focus on AI-powered applications.<br><br>🔭 Currently working on: Flutter apps & AI-integrated solutions<br>🌱 Learning: Advanced DSA, Backend Systems, AI integration<br>👨‍💻 All projects: https://github.com/shuraih-ali<br>📫 Contact: shuraihali003@gmail.com<br>🌍 Location: Mardan, Pakistan<br>
 
 
