@@ -43,17 +43,6 @@ Currently serving as IEEE Treasurer at AWKUM, managing financial operations and 
 
 ---
 
-## GitHub Trophies
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=shuraih-ali&show_icons=true&theme=dark)
-
-![](https://streak-stats.demolab.com?user=shuraih-ali&theme=dark)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shuraih-ali&layout=compact&theme=dark)
-
----
-
 ## Featured Projects
 - Flutter Task Organizer (Task management with SQLite)  
 - E-Commerce Sneakers UI (Modern UI design in Flutter)  
