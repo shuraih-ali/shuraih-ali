@@ -44,7 +44,13 @@ Currently serving as IEEE Treasurer at AWKUM, managing financial operations and 
 ---
 
 ## GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=shuraih-ali&theme=radical&margin-w=10&no-frame=true&v=1)
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=shuraih-ali&show_icons=true&theme=dark)
+
+![](https://streak-stats.demolab.com?user=shuraih-ali&theme=dark)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shuraih-ali&layout=compact&theme=dark)
 
 ---
 
