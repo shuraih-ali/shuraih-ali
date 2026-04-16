@@ -20,5 +20,3 @@ I am a Computer Science (AI) student at Abdul Wali Khan University Mardan with a
 
 ---
 [![](https://visitcount.itsvg.in/api?id=shuraih-ali&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
