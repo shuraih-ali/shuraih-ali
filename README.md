@@ -1,22 +1,60 @@
-# About Me:
-I am a Computer Science (AI) student at Abdul Wali Khan University Mardan with a strong focus on building real-world, scalable applications.<br><br>Currently serving as IEEE Treasurer at AWKUM, where I handle financial operations, funding management, and contribute to technical initiatives within the IEEE ecosystem.<br><br>I specialize in Flutter-based cross-platform development, with solid foundations in Data Structures & Algorithms, and a growing focus on AI-powered applications.<br><br>🔭 Currently working on: Flutter apps & AI-integrated solutions<br>👨‍💻 All projects: https://github.com/shuraih-ali<br>📫 Contact: shuraihali003@gmail.com<br>🌍 Location: Mardan, Pakistan<br>
+# Shuraih Ali
 
+## About Me
+Computer Science (AI) student at Abdul Wali Khan University Mardan.  
+Focused on building real-world, scalable applications with Flutter and exploring AI-driven solutions.
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/shuraih.ali) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shuraih.ali) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shuraih-ali) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/ShuraihAli) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Shuraih_Ali) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ShuraihAli) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shuraihali003@gmail.com) 
+Currently serving as IEEE Treasurer at AWKUM, managing financial operations and supporting technical initiatives.
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=shuraih-ali&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=shuraih-ali&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shuraih-ali&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=shuraih-ali&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=shuraih-ali&limit=5&theme=dark&combine_all_yearly_contributions=true)
+- Working on: Flutter apps & AI-integrated systems  
+- GitHub: https://github.com/shuraih-ali  
+- Email: shuraihali003@gmail.com  
+- Location: Mardan, Pakistan  
 
 ---
-[![](https://visitcount.itsvg.in/api?id=shuraih-ali&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shuraih-ali)
+[![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shuraih-ali)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/shuraih.ali)
+
+---
+
+## Tech Stack
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=shuraih-ali&show_icons=true&theme=dark&cache_seconds=86400)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=shuraih-ali&theme=dark)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shuraih-ali&layout=compact&theme=dark)
+
+---
+
+## GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=shuraih-ali&theme=radical&margin-w=10&no-frame=true&v=1)
+
+---
+
+## Featured Projects
+- Flutter Task Organizer (Task management with SQLite)  
+- E-Commerce Sneakers UI (Modern UI design in Flutter)  
+- Dark/Light Theme App (Theme switching system)  
+
+---
+
+## Focus Areas
+- Cross-platform mobile development (Flutter)  
+- AI-integrated applications  
